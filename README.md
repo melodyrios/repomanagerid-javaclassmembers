@@ -7,3 +7,4 @@ The instructor's name is Scott Dossey
 ## Students
 
 * Reka-W
+*Patrice
